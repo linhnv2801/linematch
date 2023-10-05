@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/mapbox/linematch/issues"
   },
-  "homepage": "https://github.com/mapbox/linematch#readme"
+  "homepage": "https://github.com/mapbox/linematch#readme",
+  "directories": {
+    "test": "test"
+  }
 }
